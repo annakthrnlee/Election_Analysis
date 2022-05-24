@@ -1,7 +1,7 @@
 # Election_Analysis
 
 ## Project Overview:
-I worked with Tom to summarize the tasks that needed to be completed for an election audit. We also discussed the information needed by the Colorado Board of Elections.
+I worked with Tom to summarize the tasks needed to complete the election audit. We also discussed the information needed by the Colorado Board of Elections.
 ### Tasks
 To ensure that my final Python script would deliver the following information when the script is run: 
 1. Total number of votes cast.
@@ -34,7 +34,7 @@ The analysis of the election contained the following:
     - Diana DeGetter who received 73.8% (272,892) of the total votes casted.
 
 ## Challenge Overview:
-The election commission has requested some additional data to complete the audit.
+The election commission has requested some additional data to complete the audit. I provided a written analysis of the election audit for the election commission, including the new results and a clearly written overview of your methods. 
 ### Additional Tasks
 1. The voter turnout for each county
 2. The percentage of votes from each county out of the total count
