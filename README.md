@@ -13,6 +13,7 @@ To ensure that my final Python script would deliver the following information wh
 ## Resources:
 ### Resources Folder
 Data source: election_results(3).csv
+
 Analysis.py: incldues the final analysis of the election and county vote results.
 ### PyPoll.py 
 Includes all of the codes I used to determine the election results. 
