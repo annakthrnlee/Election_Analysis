@@ -17,7 +17,7 @@ Data source: election_results(3).csv
 Analysis.py: incldues the final analysis of the election and county vote results.
 ### PyPoll.py 
 Includes all of the codes I used to determine the election results. 
-### PyPoll_Challange.py 
+### PyPoll_Challenge.py 
 Includes all of the codes I used to determine the election results and the voter turnout results for each county. 
 ### Software
 Python version 3.7.6, Visual Studio Code 1.67.2
