@@ -57,5 +57,9 @@ The analysis of the election audit concering vote turnout for each county contai
     - Denver which accounted for 82.8% (306,055) of the total votes casted. 
   
 ## Summary: 
+This proposal outlines how this script can be used, with some modifications, for any election. 
+#### It should be made apparent that the first edit should be made by selecting different csv files for different elections. 
+
+For starters, one editing option could be to eliminate the "county_options" line and replace it with, for example, "state_options". With more editing, you would be able to create a new dictionary that corresponded with specific or all states if necessary. Another editing option that could be done would include changing or even adding specific lines that could dictate how voters chose to cast their votes. To determine how voters chose to vote would also include another file that analyzed all votes casted and the options available/chosen on an individual level by state (or county). 
 
 
